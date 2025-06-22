@@ -1,11 +1,5 @@
-# worldcup-database
-A relational database project that tracks World Cup match data using PostgreSQL and Bash scripting.This project stores match results, teams, and generates insightful stats using SQL queries — from top scorers to champions. ⚽📊
-
 # 🌍 World Cup Database
-
-This project is part of the freeCodeCamp Relational Database Certification.
-
-It uses PostgreSQL and Bash to store and query World Cup match data from 2014 and 2018.
+A relational database project that tracks World Cup match data using PostgreSQL and Bash scripting.This project stores match results, teams, and generates insightful stats using SQL queries — from top scorers to champions. ⚽📊
 
 ## 📁 Files
 
